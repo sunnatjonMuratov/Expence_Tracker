@@ -1,5 +1,3 @@
-// script.js
-
 // Selectors
 const expenseForm = document.getElementById('expense-form');
 const expenseName = document.getElementById('expense-name');
