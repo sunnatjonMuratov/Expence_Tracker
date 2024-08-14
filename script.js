@@ -1,6 +1,5 @@
 // script.js
 
-// DOM Content Loaded event to ensure HTML is parsed
 document.addEventListener('DOMContentLoaded', () => {
     const app = document.getElementById('app');
 
@@ -61,11 +60,9 @@ document.addEventListener('DOMContentLoaded', () => {
     let expenses = JSON.parse(localStorage.getItem('expenses')) || [];
     let editIndex = -1;
 
-    // Event Listeners
     expenseForm.addEventListener('submit', addExpense);
     filterCategory.addEventListener('change', displayExpenses);
-
-    // Functions
+    
 
     function addExpense(e) {
         e.preventDefault();
