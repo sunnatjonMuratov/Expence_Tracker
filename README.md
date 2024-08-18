@@ -11,11 +11,11 @@ HTML: For structuring the web page.
 CSS: For styling the user interface.
 JavaScript: For adding dynamic behavior to the application.
 
-expense-tracker/
-│
-├── index.html          # Main HTML file for the application
-├── styles.css          # CSS file for styling the app
-└── script.js           # JavaScript file for the app's functionality
+expense-tracker/                                                                                                                                                           
+│                                                                                                                                                                          
+├── index.html          # Main HTML file for the application                                                                                                               
+├── styles.css          # CSS file for styling the app                                                                                                                     
+└── script.js           # JavaScript file for the app's functionality                                                                                                      
 
 
 Getting Started
