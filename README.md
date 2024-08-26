@@ -11,8 +11,7 @@ HTML: For structuring the web page.
 CSS: For styling the user interface.
 JavaScript: For adding dynamic behavior to the application.
 
-expense-tracker/                                                                                                                                                           
-│                                                                                                                                                                          
+expense-tracker/                                                                                                                                                                          
 ├── index.html          # Main HTML file for the application                                                                                                               
 ├── styles.css          # CSS file for styling the app                                                                                                                     
 └── script.js           # JavaScript file for the app's functionality                                                                                                      
@@ -43,6 +42,3 @@ Filter by Category: Allow users to filter the list of expenses by category.
 Edit Expenses: Enable users to edit existing expense entries.
 Contributing
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions, such as bug fixes, feature requests, or improvements, are welcome!
-
-License
-This project is open-source and available under the MIT License.
