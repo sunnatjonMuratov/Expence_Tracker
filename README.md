@@ -21,7 +21,7 @@ Getting Started
 1. Clone the Repository
 To start using the Expense Tracker, first clone the repository:
 
-###################git clone https://github.com/your-username/expense-tracker.git############################
+###################git clone https://github.com/sunnatjonMuratov/Expense_Tracker.git############################
 
 2. Open the Application
 Navigate to the project directory and open the index.html file in your preferred web browser.
